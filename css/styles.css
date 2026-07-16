@@ -1,11 +1,14 @@
 h1{
-    color: red;
+    color: #310d42;
     text-align: center;
     font-style: italic;
     font-weight: 700;
     font-family: Bree serif;
     font-size: 70px;
     line-height: normal;
+}
+i{
+    color: #34074D;
 }
 body{
     background-image: url(https://thumbs.dreamstime.com/b/vector-geometric-background-can-be-used-cover-design-book-website-cd-advertising-white-abstract-texture-poster-backgrounds-150343271.jpg);
@@ -22,5 +25,5 @@ img{
 
 h2{
     text-decoration: underline;
-
+    color: #34074D;
 }

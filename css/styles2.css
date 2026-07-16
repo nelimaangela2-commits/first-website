@@ -1,0 +1,22 @@
+h1{
+    color: #34074D;
+}
+h2{
+   color: #34074D;
+}
+
+body{
+    background-color: #EFEBF2;
+}
+
+li{
+    font-weight: bold;
+}
+
+img{
+    border: 2px solid purple;
+    display: block;
+    width: 582;
+    height: 350;
+}
+
